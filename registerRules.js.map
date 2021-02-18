@@ -1,1 +1,1 @@
-{"version":3,"file":"registerRules.js","sourceRoot":"","sources":["registerRules.ts"],"names":[],"mappings":";;AAAA,oEAAqF;AACrF,4CAAyC;AAEzC,uBAAoB;KACjB,QAAQ,CACP,GAAG,cAAQ,EAAE,CACd,CACF"}
+{"version":3,"file":"registerRules.js","sourceRoot":"","sources":["registerRules.ts"],"names":[],"mappings":";;AAAA,oEAAqF;AACrF,4CAAyC;AAEzC,uBAAoB,CAAC,QAAQ,CAAC,GAAG,cAAQ,EAAE,CAAC,CAAC"}
